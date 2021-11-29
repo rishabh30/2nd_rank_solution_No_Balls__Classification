@@ -42,9 +42,9 @@ The images are manually annotated and contains two classes: no ball and valid ba
 - Except for the first five layers of the model all layers of Resnet50 are converted into non-trainable layers.
 - One Dense layer of size 300 is also added after Resnet50 and after which the model is trained.
 
-![1](images/1.png)
-![2](images/2.png)
-![loss](images/loss.png)
+![1](images/1.jpg)
+![2](images/2.jpg)
+![loss](images/loss.PNG)
 
 
 ### Challenges and Steps to increase further Accuracy 
