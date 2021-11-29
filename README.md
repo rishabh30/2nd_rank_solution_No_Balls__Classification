@@ -12,7 +12,7 @@ Design an algorithm to detect whether a bowler delivery is a Legal or No-Ball de
 ├── data\
 ├── images\
 ├── models\
-│   └── No_ballResNet50DineTune.h5
+│   └── No_ballResNet50DineTune.h5\
 ├── src\
 │   └── Training.ipynb\
 │   └── test.ipynb\
